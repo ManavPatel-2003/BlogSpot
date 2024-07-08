@@ -1,8 +1,3 @@
-# React + Vite
+# BogSpot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+BlogSpot is web application which allows users to write and publish their blog. Users are required to create an account for reading blogs from other users and publishing their own blog. User can also upload an image along with their blog article and can edit and delete their blog after publishing.
